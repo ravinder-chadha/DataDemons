@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538591933574",
+    "project_id": "jolly-soothing-era",
+    "storage_bucket": "jolly-soothing-era.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538591933574:android:34fa3fc4372e913abdcd07",
+        "android_client_info": {
+          "package_name": "com.example.jollysoothingera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538591933574-cc5v2cbi6mp97l7tc0ehn1k10b9h22t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaogrJ26PcXeQz8zsmcYruuztgRxkvLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538591933574-cc5v2cbi6mp97l7tc0ehn1k10b9h22t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
