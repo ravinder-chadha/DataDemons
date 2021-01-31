@@ -46,14 +46,17 @@
         android:layout_marginEnd="75dp"
         android:layout_marginRight="75dp"
         android:layout_marginBottom="20dp"
+        android:autofillHints=""
+        android:background="@drawable/edit_text_border"
         android:ems="10"
         android:hint="@string/email_id"
         android:inputType="textEmailAddress"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
         app:layout_constraintBottom_toTopOf="@+id/editTextTextPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
-        android:autofillHints="" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -73,15 +76,18 @@
         android:layout_marginLeft="26dp"
         android:layout_marginEnd="73dp"
         android:layout_marginRight="73dp"
+        android:autofillHints=""
+        android:background="@drawable/edit_text_border"
         android:ems="10"
         android:hint="@string/password"
         android:inputType="textPassword"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.527"
-        android:autofillHints="" />
+        app:layout_constraintVertical_bias="0.527" />
 
     <CheckBox
         android:id="@+id/checkBox"

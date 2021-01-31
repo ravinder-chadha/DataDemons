@@ -28,4 +28,14 @@
     <string name="extras">Extras</string>
     <string name="about">About</string>
     <string name="rate_us">Rate Us</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_suggestions">Enter Your Suggestions</string>
+    <string name="we_appreciate_your_suggestions">We Appreciate Your Suggestions</string>
+    <string name="submit">Submit</string>
+    <string name="work_for_cause_not_for_applause">Work For Cause, Not For Applause</string>
+    <string name="swipe_right_to_open_navigation_drawer">Swipe Right To Open Navigation Drawer</string>
+    <string name="pnb_bank">PNB Bank</string>
+    <string name="paytm_details">Paytm Details</string>
+    <string name="account_holder_name_n_gautam_singla_n_accountno_n_123456789000000_nifsc_punjb2012313"><![CDATA[Account Holder Name -->\n Gautam SIngla \n AccountNo.-->\n 123456789000000\nIFSC-->PUNJB2012313]]></string>
+    <string name="upi_id_n_something_paytm_nmobile_n7888410545"><![CDATA[UPI id-->\n something@paytm\nMobile-->\n7888410545]]></string>
 </resources>

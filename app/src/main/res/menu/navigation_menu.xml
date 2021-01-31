@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIN="navigation_view">
 
     <group android:checkableBehavior="single">
-        <item android:id="@+id/Feed"
+        <item
+            android:id="@+id/Feed"
             android:icon="@drawable/feed_icon"
             android:title="@string/feed" />
-        <item android:id="@+id/Donate"
+        <item
+            android:id="@+id/Donate"
             android:icon="@drawable/donate_icon"
             android:title="@string/donate" />
-        <item android:id="@+id/Suggestions"
+        <item
+            android:id="@+id/Suggestions"
             android:icon="@drawable/suggestion_icon"
             android:title="@string/suggestions" />
     </group>
     <item android:title="@string/extras">
         <menu>
-            <item android:id="@+id/About"
+            <item
+                android:id="@+id/About"
                 android:icon="@drawable/about_icon"
                 android:title="@string/about" />
-            <item android:id="@+id/RateUs"
+            <item
+                android:id="@+id/RateUs"
                 android:icon="@drawable/rate_icon"
                 android:title="@string/rate_us" />
         </menu>
